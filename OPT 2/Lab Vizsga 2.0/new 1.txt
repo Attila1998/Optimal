@@ -1,0 +1,12 @@
+II
+
+-Folytonos,végtelen idejű és allpot utáni típusú szabályzót valósítanék meg
+
+-R=c
+ Q=[0 0.2;0.2 9]
+ F=0*eye(3)
+ c>0, hogy R pozitív definit legyen
+
+-Schurr módszerrel
+
+-
